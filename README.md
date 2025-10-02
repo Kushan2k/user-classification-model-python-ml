@@ -1,4 +1,6 @@
-# Installation
+# Use Classification Model Creation
+
+## Installation
 
 1. **Clone the repository:**
 
